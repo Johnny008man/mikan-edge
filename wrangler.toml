@@ -1,0 +1,6 @@
+name = "mikan-edge"
+main = "src/worker.js"
+compatibility_date = "2025-09-01"
+
+[vars]
+UUID = "26ff24f1-18f5-4cf9-b72d-b710179e2582"
